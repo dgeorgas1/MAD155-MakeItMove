@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MakeItMove</string>
+
+    <string name="buttonColor">Color</string>
+    <string name="buttonFade">Fade</string>
+    <string name="buttonRotate">Rotate</string>
+
+    <string name="buttonScale">Scale</string>
+    <string name="buttonShower">Shower</string>
+    <string name="buttonTranslate">Translate</string>
+</resources>
